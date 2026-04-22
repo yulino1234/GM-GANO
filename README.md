@@ -32,7 +32,7 @@ pip install cvxpy
 
 ## Load the pretrained model
 please download the trained model through following link,  and store the model under `kik_net_trained_model` folder
-https://drive.google.com/file/d/18k366Y4UmaGoYxepwzZaGo_nw6Kup0cW/view?usp=sharing
+https://huggingface.co/Yaozhong/GM_GANO
 
 ## Quick start of using trained GANO
 run `tutorials_for_cGmGANO.ipynb` file for generating 3C waveforms 
